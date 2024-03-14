@@ -36,6 +36,7 @@ Benefits of Grower's Diary:
 Download Grower's Diary today and make growing plants easier, more efficient and more productive!
 
 
+First Run and Settings:
 After installing the application, you need to go to the settings and set the start time of the day and duration.
 
 The remaining settings items only work in the full version.
