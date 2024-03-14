@@ -36,7 +36,7 @@ Benefits of Grower's Diary:
 Download Grower's Diary today and make growing plants easier, more efficient and more productive!
 
 
-First Run and Settings:
+<b>First Run and Settings:</b><br>
 After installing the application, you need to go to the settings and set the start time of the day and duration.
 
 The remaining settings items only work in the full version.
@@ -61,5 +61,5 @@ Swipe actions are also available in the archive:
 - swipe right - deletes the entry.
 - swipe to the left - makes the plant active again (transfer the plant back from the archive)
 
-In the full version of the application in Akhive, you can add and edit comments,
+In the full version of the application in Archive, you can add and edit comments,
 The cycle of life does not stop when the last day of the cycle is reached.
